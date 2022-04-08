@@ -6,10 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
-.container {
+/* .container {
   width: 75%;
   margin: 0 auto;
-};
+}; */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
