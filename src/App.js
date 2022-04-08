@@ -10,7 +10,7 @@ function App() {
       <Header></Header>
       <h1>************ </h1>
       <Shop></Shop>
-      <dov>fjtfgjgf</dov>
+      <div><h1>Hello world!</h1></div>
     </div>
 
   );
