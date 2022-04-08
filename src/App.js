@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      {/* <h1>BEST LAPTOP</h1> */}
+      <h1>BEST LAPTOP</h1>
       <Shop></Shop>
       <div class= 'container'>
         <h2>React কিভাবে কাজ করে? </h2> 
