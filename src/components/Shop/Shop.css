@@ -18,7 +18,7 @@
     background-color: #e9e3ee;
     height: auto;
     /* width: 300px; */
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
     padding-right: 5px;
     right: 80px;
     top: 80px;
@@ -30,12 +30,12 @@
 
 }
 .order-btn{
-    margin: 10px;
+    margin: 5px 10px;
     width: 200px;
-    height: 50px;
+    height: 40px;
     border: none;
     border-radius: 8px;
-    background-color: rgb(175, 245, 62);;
+    background-color: rgb(175, 245, 62);
 
 }
 .order-btn:hover{
